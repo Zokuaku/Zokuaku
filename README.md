@@ -9,4 +9,4 @@ Welcome to my github profile page. Below are some quick details about myself
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 - :house_with_garden: Home: I live in Alberta, Canada
-- :family: Family: I am Married to my Wife Alicia (We have been married for 14 years, together for 20 years), we have our first son Jack (will be 1 in August), 4 Pugs (Zelda, Dart, Missy and Nibbler) :dog: and 1 cat (Baby) :cat:
+- :family: Family: I am Married to my Wife Alicia (We have been married for 14 years, together for 20 years), we have our first son Jack (will be 1 in August) :baby:, 4 Pugs (Zelda, Dart, Missy and Nibbler) :dog: and 1 cat (Baby) :cat:
