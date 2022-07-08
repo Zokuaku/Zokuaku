@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###**Zokuaku/Zokuaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zokuaku/Zokuaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on Terraform IaC for AWS infrastructure management at Safe Software.
