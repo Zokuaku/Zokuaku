@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Zokuaku/Zokuaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile page. Below are some quick details about myself
 
 
 - 🔭 I’m currently working on Terraform IaC for AWS infrastructure management at Safe Software.
@@ -8,3 +8,4 @@
 - 💬 Ask me about AspenTech IP.21, SQL Plus, T-SQL, PowerShell, Windows Server, Windows Desktop, Networking, Firewalls and other Systems Analyst related work.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
+- :house_with_garden: Home: I live in Alberta, Canada
